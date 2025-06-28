@@ -1,6 +1,6 @@
-<h1>Hi, I'm Christopher Easley! <br/><a href="https://github.com/joshmadakor1" <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">
+<h1>Hi, I'm Christopher Easley! <br/><a href="https://github.com/joshmadakor1" <a href="https://www.linkedin.com/in/joshmadakor/">Software Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Software  Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
